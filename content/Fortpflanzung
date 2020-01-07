@@ -1,1 +1,50 @@
-iuhrihgieuhieriehtgehrghfviifetr
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style/stylesheet.css">
+    <title>Der Löwe</title>
+</head>
+    
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<!-- Sidebar -->
+<div class="w3-sidebar w3-amber w3-bar-block" style="width:15%">
+  <h3 class="w3-bar-item">Inhalt</h3>
+  <a href="#" class="w3-bar-item w3-button">Lebensraum</a>
+  <a href="#" class="w3-bar-item w3-button">Lebensweise</a>
+  <a href="#" class="w3-bar-item w3-button">Fortpflanzug</a>
+</div>
+
+<!-- Page Content -->
+<div style="margin-left:15%">
+    
+<div class="w3-container w3-white">
+   <h1>Der Löwe</h1>
+</div>
+    
+<div class="w3-container"> 
+    <p>Der Löwe ist ein <a href="https://de.wikipedia.org/wiki/Raubtiere">Raubtier</a> und gehört zur Familie der Katzen. 
+        Mit seiner großen Mähne ist das Männchen sehr auffällig. Man nennt den Löwen deshalb oft den „König der Tiere“.</p>
+    <p>Ein ausgewachsener Löwe ist bei den Schultern einen und einen viertel Meter hoch. Männchen sind im Durchschnitt 190 Kilogramm schwer und Weibchen 125 Kilo. 
+        Weibchen kann man leicht von den Männchen unterschieden, weil sie deutlich zierlicher wirken. 
+        Die Weibchen haben auch keine Mähne. Löwen können ebenso wie unsere Hauskatzen schnurren, jedoch nur beim Ausatmen.</p>
+</div>
+    
+</div>
+    <section>
+        
+        <h3>Merkmale</h3>
+        
+        
+        
+     
+    </section>
+</body>
+
+</html>
